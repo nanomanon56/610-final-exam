@@ -1,7 +1,7 @@
-
-
+#created classe to prevent possible errors, This function is called later 
 class PathFound(RuntimeError):
     pass
+
 
 #here we are creating game board  
 class KNIGHTSgame:
